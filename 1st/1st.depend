@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1584205420 source:c:\code\1st\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1664258378 source:c:\code\1st\add.c
+	"myMath.h"
+
+1664258378 c:\code\1st\mymath.h
+
+1664258378 source:c:\code\1st\div.c
+	"myMath.h"
+
+1664258378 source:c:\code\1st\mul.c
+	"myMath.h"
+
+1664258378 source:c:\code\1st\sub.c
+	"myMath.h"
+
